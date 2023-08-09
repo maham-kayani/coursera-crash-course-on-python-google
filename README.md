@@ -1,10 +1,12 @@
 # coursera-crash-course-on-python-google
 Course delivered by christine rafla 
 About simple programs and understanding of their role in automation
-some important concepts
--->Python programming has syntax(Rules for instructions) and semantics(effect of the instructions)
--->Python as a scripting language for automation
--->python interpreter: read and run the code
+| Concept                                        | Description                                                                                 |
+|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Python Programming Syntax and Semantics       | Python follows syntax rules for instructions and has defined semantics for their effects.  |
+| Python as a Scripting Language for Automation  | Python is widely used as a scripting language to automate tasks and perform repetitive jobs. |
+| Python Interpreter                            | The Python interpreter reads and executes the code, enabling program execution.             |
+
 | Week | Topics                                           | Description                                                                                                     |
 |------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | 1    | Basic Print Statement, Arithmetic Operators      | Introduction to basic printing of text and numbers, and performing arithmetic operations like +, -, *, /, %, etc. |
