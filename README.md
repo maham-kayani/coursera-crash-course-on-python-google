@@ -1,6 +1,10 @@
 # coursera-crash-course-on-python-google
 Course delivered by christine rafla 
 About simple programs and understanding of their role in automation
+
+| Certificate | [Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/TSRGQ2NBBMEN) |
+
+
 | Concept                                        | Description                                                                                 |
 |------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Python Programming Syntax and Semantics       | Python follows syntax rules for instructions and has defined semantics for their effects.  |
@@ -19,4 +23,3 @@ About simple programs and understanding of their role in automation
 
 
 
-| Cetificate :https://www.coursera.org/account/accomplishments/verify/TSRGQ2NBBMEN
