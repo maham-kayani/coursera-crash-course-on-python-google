@@ -5,6 +5,8 @@ some important concepts
 -->Python programming has syntax(Rules for instructions) and semantics(effect of the instructions)
 -->Python as a scripting language for automation
 -->python interpreter: read and run the code
+
+
 **Week 1**: **Basic** 
 Print statement
 Arithmetic operators
