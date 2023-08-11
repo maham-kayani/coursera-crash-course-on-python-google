@@ -2,7 +2,7 @@
 
 Course delivered by Christine Rafla about simple programs and understanding of their role in automation.
 
-## Certificate
+## MyCertificate
 [Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/TSRGQ2NBBMEN)
 
 ## Concepts
